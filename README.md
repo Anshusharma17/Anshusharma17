@@ -65,7 +65,7 @@ These are some of the major technologies that I use or have worked on in the pas
  
 # My Portfolio
 
-   <a href="http://myanshu.tech/"> Portfolio</a>
+   <a href="https://anshusharma17.github.io/Portfolio/"> Portfolio</a>
  
 # List of Project 
   <a href="https://fast-beyond-45776.herokuapp.com/"> Keeper App</a>

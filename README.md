@@ -1,42 +1,72 @@
+<h1>Hi There, I'm Vishal Sharma 👋 </h1>
 
+I'm a **Full-Stack Web Developer(MERN)**. I am a Self-motivated person & Eager to learn different things and also I can adapt quickly any Environment.
 
-### Hi there 👋 
+## Skill Set :-
 
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Anshusharma17&color=red)&nbsp;
-[![GitHub Anshusharma17](https://img.shields.io/github/followers/Anshusharma17?label=follow&style=social)](https://github.com/Anshusharma17)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+These are some of the major technologies that I use or have worked on in the past:
 
+**Languages**
 
-### 👨🏻‍💻 &nbsp;About Me
-Coming Soon..
-
-
-### 🛠 &nbsp;Tech Stack
-
- 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
- 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)&nbsp;
+![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+**WEB 3.0**
+ 
+![Motoko](https://img.shields.io/badge/-Motoko%20Language-05122A?style=flat )&nbsp;
+![internet computer(dfinity)](https://img.shields.io/badge/-Internet%20Computer%20Dfinity-05122A?style=flat )&nbsp;
+![crypto token](https://img.shields.io/badge/-Crypto%20token-05122A?style=flat )&nbsp;
+![nft](https://img.shields.io/badge/-NFT-05122A?style=flat )&nbsp;
+
+**Libraries and Frameworks**
+
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDb-MongoDB-green)&nbsp;
-![React.js](https://img.shields.io/badge/React.js-React.js-blue)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-Node.js-green)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-Express.js-brightgreen)&nbsp;
+![FlexBox](https://img.shields.io/badge/-CSS%20FlexBox-05122A?style=flat)&nbsp;
+![CSS Grid](https://img.shields.io/badge/-CSS%20Grid-05122A?style=flat)&nbsp;
+![Jquery](https://img.shields.io/badge/-JQuery-05122A?style=&logo=jquery)&nbsp;
+![Jquery UI](https://img.shields.io/badge/-JQuery%20UI-05122A?style)&nbsp;
+![Awt](https://img.shields.io/badge/-Java%20Awt-05122A?style=flat)&nbsp;
+![Swing](https://img.shields.io/badge/-Java%20Swing-05122A?style=flat)&nbsp;
+![javaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=materialdesignicons)&nbsp;
+ 
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
+![Sqlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![RestFUL](https://img.shields.io/badge/-RESTFul%20API-05122A?style=flat)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat)&nbsp;
+![Oauth](https://img.shields.io/badge/-Oauth-05122A?style=flat&logo=auth0)&nbsp;
+
+<hr>
+<br>
  
 # My Portfolio
 
    <a href="http://myanshu.tech/"> Portfolio</a>
-
+ 
 # List of Project 
   <a href="https://fast-beyond-45776.herokuapp.com/"> Keeper App</a>
  
@@ -85,8 +115,3 @@ Coming Soon..
 # List of Achievements 
  
  <a href="https://www.hackerrank.com/certificates/269061045996"> Java(Basic)-> Hackerrank</a>
-
-
- 
-
-

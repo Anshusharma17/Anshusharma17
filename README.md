@@ -66,7 +66,12 @@ These are some of the major technologies that I use or have worked on in the pas
 # My Portfolio
 
    <a href="https://anshusharma17.github.io/Portfolio/"> Portfolio</a>
- 
+   
+# WEB 3.0 (BlockChain) Project
+ <a href="https://agmtn-hiaaa-aaaao-aaq3q-cai.ic0.app/"> Tokens</a>
+
+  Coming soon !!😊
+
 # List of Project 
   <a href="https://fast-beyond-45776.herokuapp.com/"> Keeper App</a>
  
@@ -90,11 +95,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
  <a href="http://anshusharma17.github.io/Resume-Html-CSS-/"> Resume-Html-CSS</a>
    
-   Some Project(WEB 3.0) not deploy because of costing..
-   <br>
-   Mail me for Source Code :- anshusharma608218+code@gmail.com
-
- 
 # List of Certificate 
  
  <a href="https://drive.google.com/file/d/1FQiyUAfylp1IQ4inEyONU3STP71dk3aF/view?usp=sharing"> DSA(Intern)</a>

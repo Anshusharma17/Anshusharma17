@@ -82,7 +82,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
  <a href="https://keeper-notes-rr1g.onrender.com/"> Keeper Notes</a>
  
- <a href="https://tranquil-lake-14734.herokuapp.com/"> Daily Journey</a>
+ <a href="https://daily-journey.onrender.com/"> Daily Journey</a>
 
  <a href="https://to-do-list-gqi5.onrender.com/"> ToDo-List</a>
 

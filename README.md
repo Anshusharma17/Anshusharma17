@@ -84,9 +84,9 @@ These are some of the major technologies that I use or have worked on in the pas
  
  <a href="https://tranquil-lake-14734.herokuapp.com/"> Daily Journey</a>
 
- <a href="https://mysterious-reaches-24227.herokuapp.com/"> ToDo-List</a>
+ <a href="https://to-do-list-gqi5.onrender.com/"> ToDo-List</a>
 
- <a href="https://damp-spire-76413.herokuapp.com/"> Job Notification Subscription<a/>
+ <a href="https://job-notification-subscription.onrender.com/"> Job Notification Subscription<a/>
 
  <a href="http://anshusharma17.github.io/Profile-Website/"> Profile-Website</a>
 

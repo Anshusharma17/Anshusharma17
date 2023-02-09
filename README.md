@@ -75,7 +75,12 @@ These are some of the major technologies that I use or have worked on in the pas
   Coming soon !!😊
 
 # List of Project 
-  <a href="https://fast-beyond-45776.herokuapp.com/"> Keeper App</a>
+
+ Note :- All hosting services are free or trial version so it take little bit of time to open.
+
+ <a href="https://e-commerce-admin-client-api.onrender.com/"> E-Commerce</a> (Mini - Major Project(Developing phases) ) Team Project 
+
+ <a href="https://fast-beyond-45776.herokuapp.com/"> Keeper App</a>
  
  <a href="https://tranquil-lake-14734.herokuapp.com/"> Daily Journey</a>
 

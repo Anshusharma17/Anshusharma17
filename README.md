@@ -80,6 +80,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
  <a href="https://e-commerce-admin-client-api.onrender.com/"> E-Commerce</a> (Mini - Major Project(Developing phases) ) Team Project 
 
+ <a href="https://anshu.my.canva.site/">Canva Design</a>
+
  <a href="https://keeper-notes-rr1g.onrender.com/"> Keeper Notes</a>
  
  <a href="https://daily-journey.onrender.com/"> Daily Journey</a>

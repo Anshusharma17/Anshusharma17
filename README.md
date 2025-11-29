@@ -115,12 +115,4 @@ I love building **modern UI/UX**, **scalable APIs**, and learning next-gen techn
   <img src="https://github-profile-trophy.vercel.app/?username=Anshusharma17&theme=tokyonight&no-frame=true&margin-w=10">
 </div>
 
----
-
-## 🐍 Contribution Snake  
-> ✔ Working snake animation with GitHub Actions  
-> ✔ Auto-updates every 12 hours  
-> ✔ No more broken snake!
-
-```md
 ![Snake animation](https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/output/github-contribution-grid-snake.svg)

@@ -1,26 +1,28 @@
 <!-- Banner / Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+There+👋,+I'm+Vishal+Sharma!;Full-Stack+Web+Developer+(MERN);Web+3.0+%7C+Blockchain+Enthusiast;Always+Learning+New+Things!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There+👋,+I'm+Vishal+Sharma!;Full-Stack+MERN+Developer;Web+3.0+%7C+Blockchain+Enthusiast;Passionate+Coder+%7C+Tech+Explorer+🚀">
 </div>
 
 ---
 
 ## 🌟 About Me  
-I’m a **Full-Stack MERN Developer** and **Web 3.0 Enthusiast**, passionate about developing modern web apps and blockchain-based solutions.  
-I love solving real-world problems, building beautiful UIs, and learning emerging technologies.
+I'm **Vishal Sharma**, a passionate **Full-Stack Web Developer (MERN Stack)** and **Blockchain Explorer**.  
+I love building **modern UI/UX**, **scalable APIs**, and learning next-gen technologies daily.
+
+💡 *Focused. Curious. Always Building.*
 
 ---
 
 ## 🔥 Tech Stack
 
 ### 🧑‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge)
 
 ---
 
@@ -67,7 +69,7 @@ I love solving real-world problems, building beautiful UIs, and learning emergin
 ---
 
 ## 🧩 Major Projects  
-> *Note: Some projects may take time to load due to free hosting.*
+> *Some free-hosted projects may load a bit slower.*
 
 - 🔥 **E-Commerce (Team Project)**  
   https://e-commerce-admin-client-api.onrender.com/
@@ -84,7 +86,7 @@ I love solving real-world problems, building beautiful UIs, and learning emergin
 - 📰 **Job Notification Subscription**  
   https://job-notification-subscription.onrender.com/
 
-- 🎮 Simon Game, Dice Game, Maths Game and more…  
+- 🎮 **Simon Game, Dice Game, Maths Game & more**  
   https://anshusharma17.github.io/The-Simon-Game/  
   https://anshusharma17.github.io/The-Dice-Game/  
   https://anshusharma17.github.io/Maths-Game  
@@ -94,11 +96,6 @@ I love solving real-world problems, building beautiful UIs, and learning emergin
 ## 🏆 Achievements  
 - ⭐ **Java (Basic) – HackerRank**  
   https://www.hackerrank.com/certificates/269061045996
-
----
-
-## 🎓 Certificates  
-Your full list of certificates goes here… (kept same as provided)
 
 ---
 
@@ -121,19 +118,9 @@ Your full list of certificates goes here… (kept same as provided)
 ---
 
 ## 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://github.com/Anshusharma17/Anshusharma17/blob/output/github-contribution-grid-snake.svg">
-</div>
+> ✔ Working snake animation with GitHub Actions  
+> ✔ Auto-updates every 12 hours  
+> ✔ No more broken snake!
 
----
-
-## 📬 Connect With Me  
-<p align="left">
-  <a href="https://github.com/Anshusharma17"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/vishal-sharma"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
-</p>
-
----
-
-⭐ **Thanks for visiting my profile!**  
-✨ *Have a great day!*  
+```md
+![Snake animation](https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/output/github-contribution-grid-snake.svg)

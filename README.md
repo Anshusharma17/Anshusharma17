@@ -115,12 +115,12 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 ### 📊 &nbsp;GitHub at a glance
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE&bg_color=0B1020" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=0B1020" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusharma17&theme=tokyonight&hide_border=true&background=0B1020&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="155" />
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusharma17&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="streak" />
 </div>
 
 ---

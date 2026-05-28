@@ -115,8 +115,8 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 ### 📊 &nbsp;GitHub at a glance
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" alt="top langs" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE&cache_seconds=14400&v=2" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&cache_seconds=14400&v=2" alt="top langs" />
 </div>
 
 <div align="center">
@@ -132,7 +132,7 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution calendar" />
 </p>
 
 <details>

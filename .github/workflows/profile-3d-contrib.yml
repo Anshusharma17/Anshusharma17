@@ -15,15 +15,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Write 3d-contrib settings file
+        run: |
+          mkdir -p .github/profile-3d-contrib
+          cat > .github/profile-3d-contrib/settings.json <<'EOF'
+          {
+            "type": "night-view",
+            "backgroundColor": "#0B1020"
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "type": "night-view",
-              "backgroundColor": "#0B1020"
-            }
+          SETTING_JSON: .github/profile-3d-contrib/settings.json
 
       - name: Commit and push
         run: |

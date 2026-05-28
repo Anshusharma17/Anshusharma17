@@ -1,118 +1,135 @@
-<!-- Banner / Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Sharma.;Full-Stack+Engineer+%E2%80%A2+MERN+%E2%80%A2+Web3;I+build+resilient+APIs+%26+thoughtful+UIs." alt="intro" />
+</h1>
+
+<p align="center">
+  <a href="https://anshusharma17.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=githubpages&logoColor=22D3EE&labelColor=0B1020" />
+  </a>
+  <a href="https://github.com/Anshusharma17">
+    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0B1020" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=maildotru&logoColor=22D3EE&labelColor=0B1020" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1020" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 &nbsp;About
+
+I'm a full-stack engineer who likes shipping things that hold up under real traffic — clean
+TypeScript backends, thoughtful APIs, and React UIs that feel fast.
+Lately I've been going deeper into **distributed systems** and the **Internet Computer (Motoko)** ecosystem.
+
+> *"Boring on the inside, delightful on the outside."* — what I aim for in every system I build.
+
+---
+
+### 🚧 &nbsp;Currently building
+
+- **FLUX** — social expense-sharing platform &nbsp;·&nbsp; `NestJS` · `Prisma` · `PostgreSQL` · `Redis` · `WebSockets`
+- An on-chain notes app on **DFINITY** &nbsp;·&nbsp; `Motoko` · `Internet Computer`
+- Refining my portfolio with case studies, not just screenshots
+
+---
+
+### 🧰 &nbsp;Tech
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Java &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Motoko &nbsp;·&nbsp; C / C++</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Express &nbsp;·&nbsp; Prisma &nbsp;·&nbsp; REST &nbsp;·&nbsp; WebSockets</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Material UI &nbsp;·&nbsp; Sass</td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Infra</b></td>
+    <td>PostgreSQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Redis &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><b>Web3</b></td>
+    <td>Internet Computer &nbsp;·&nbsp; Motoko &nbsp;·&nbsp; NFT &amp; token primitives</td>
+  </tr>
+</table>
+
+---
+
+### 🌟 &nbsp;Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 &nbsp;E-Commerce Platform</h4>
+      <p>Full storefront with admin panel, cart, orders, and JWT auth. Built with a teammate.</p>
+      <p><sub><code>React</code> · <code>Node</code> · <code>Express</code> · <code>MongoDB</code></sub></p>
+      <a href="https://e-commerce-admin-client-api.onrender.com/">→ Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📝 &nbsp;Keeper Notes</h4>
+      <p>A Google-Keep-style note app with persistent storage and a calm UI.</p>
+      <p><sub><code>React</code> · <code>Express</code> · <code>MongoDB</code></sub></p>
+      <a href="https://keeper-notes-rr1g.onrender.com/">→ Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📔 &nbsp;Daily Journey</h4>
+      <p>Personal journaling app with auth — for keeping a thoughtful daily log.</p>
+      <p><sub><code>EJS</code> · <code>Express</code> · <code>MongoDB</code></sub></p>
+      <a href="https://daily-journey.onrender.com/">→ Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📰 &nbsp;Job Notification Service</h4>
+      <p>Cron-driven subscription pipeline that emails curated job alerts.</p>
+      <p><sub><code>Node</code> · <code>Cron</code> · <code>SMTP</code></sub></p>
+      <a href="https://job-notification-subscription.onrender.com/">→ Live demo</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>More on my <a href="https://anshusharma17.github.io/Portfolio/">portfolio</a>. Free-tier hosts can be slow on first load.</sub></p>
+
+---
+
+### 📊 &nbsp;GitHub at a glance
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+There+👋,+I'm+Vishal+Sharma!;Full-Stack+MERN+Developer;Web+3.0+%7C+Blockchain+Enthusiast;Passionate+Coder+%7C+Tech+Explorer+🚀">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusharma17&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="155" />
 </div>
 
 ---
 
-## 🌟 About Me  
-I'm **Vishal Sharma**, a passionate **Full-Stack Web Developer (MERN Stack)** and **Blockchain Explorer**.  
-I love building **modern UI/UX**, **scalable APIs**, and learning next-gen technologies daily.
+### 🐍 &nbsp;Contribution graph
 
-💡 *Focused. Curious. Always Building.*
-
----
-
-## 🔥 Tech Stack
-
-### 🧑‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-### 🌐 Web 3.0 / Blockchain  
-![Motoko](https://img.shields.io/badge/Motoko-000?style=for-the-badge)
-![DFINITY](https://img.shields.io/badge/Internet%20Computer-000?style=for-the-badge)
-![Token](https://img.shields.io/badge/Crypto%20Token-000?style=for-the-badge)
-![NFT](https://img.shields.io/badge/NFT-000?style=for-the-badge)
+### 🎯 &nbsp;Beyond code
+
+- 🏅 &nbsp;HackerRank — [Java (Basic)](https://www.hackerrank.com/certificates/269061045996)
+- 📚 &nbsp;Reading: *Designing Data-Intensive Applications*
+- 🌱 &nbsp;Learning: Kubernetes, system-design patterns, smart-contract security
 
 ---
 
-### ⚛️ Libraries & Frameworks  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jquery)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-000?style=for-the-badge&logo=materialdesignicons)
-
----
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
-
----
-
-### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)
-
----
-
-## 🌐 Portfolio  
-🎨 **Live Portfolio:**  
-👉 https://anshusharma17.github.io/Portfolio/
-
----
-
-## 🧩 Major Projects  
-> *Some free-hosted projects may load a bit slower.*
-
-- 🔥 **E-Commerce (Team Project)**  
-  https://e-commerce-admin-client-api.onrender.com/
-
-- 📝 **Keeper Notes**  
-  https://keeper-notes-rr1g.onrender.com/
-
-- 📔 **Daily Journey**  
-  https://daily-journey.onrender.com/
-
-- ✔️ **To-Do List**  
-  https://to-do-list-gqi5.onrender.com/
-
-- 📰 **Job Notification Subscription**  
-  https://job-notification-subscription.onrender.com/
-
-- 🎮 **Simon Game, Dice Game, Maths Game & more**  
-  https://anshusharma17.github.io/The-Simon-Game/  
-  https://anshusharma17.github.io/The-Dice-Game/  
-  https://anshusharma17.github.io/Maths-Game  
-
----
-
-## 🏆 Achievements  
-- ⭐ **Java (Basic) – HackerRank**  
-  https://www.hackerrank.com/certificates/269061045996
-
----
-
-## 📊 GitHub Stats  
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&theme=tokyonight" height="160">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&theme=tokyonight" height="160">
-
+  <sub>⚡ &nbsp;Open to collaborating on ambitious side-projects. Drop me a line.</sub>
 </div>
-
----
-
-## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshusharma17&theme=tokyonight&no-frame=true&margin-w=10">
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/output/github-contribution-grid-snake.svg)

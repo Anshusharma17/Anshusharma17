@@ -1,7 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vishal+Sharma.;Full-Stack+Engineer+%E2%80%A2+MERN+%E2%80%A2+Web3;I+build+resilient+APIs+%26+thoughtful+UIs." alt="intro" />
-</h1>
+<!-- ===== Banner ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Vishal%20Sharma&fontSize=46&fontColor=22D3EE&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20Web3&descSize=16&descAlignY=60&animation=fadeIn" />
+</p>
 
+<!-- ===== Typing intro ===== -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=I+build+resilient+APIs+%26+thoughtful+UIs.;TypeScript-first.+Boring+inside%2C+delightful+outside.;Currently+going+deep+on+distributed+systems+%26+Web3." alt="intro" />
+</h3>
+
+<!-- ===== Links ===== -->
 <p align="center">
   <a href="https://anshusharma17.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=githubpages&logoColor=22D3EE&labelColor=0B1020" />
@@ -15,6 +22,10 @@
   <a href="https://www.linkedin.com/in/your-handle">
     <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1020" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anshusharma17&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS&labelColor=0B1020" />
 </p>
 
 ---
@@ -33,7 +44,7 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 
 - **FLUX** — social expense-sharing platform &nbsp;·&nbsp; `NestJS` · `Prisma` · `PostgreSQL` · `Redis` · `WebSockets`
 - An on-chain notes app on **DFINITY** &nbsp;·&nbsp; `Motoko` · `Internet Computer`
-- Refining my portfolio with case studies, not just screenshots
+- Refining my portfolio with real case studies, not just screenshots
 
 ---
 
@@ -104,21 +115,33 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 ### 📊 &nbsp;GitHub at a glance
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Anshusharma17&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE&bg_color=0B1020" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshusharma17&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=0B1020" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusharma17&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshusharma17&theme=tokyonight&hide_border=true&background=0B1020&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="155" />
 </div>
 
 ---
 
-### 🐍 &nbsp;Contribution graph
+### 📈 &nbsp;Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshusharma17&bg_color=0B1020&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+</p>
+
+<details>
+  <summary><sub>📅 &nbsp;See classic calendar heatmap</sub></summary>
+  <br />
+  <p align="center">
+    <img src="https://ghchart.rshah.org/22D3EE/Anshusharma17" alt="contribution heatmap" width="100%" />
+  </p>
+</details>
 
 ---
 
@@ -130,6 +153,17 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://skyline.github.com/Anshusharma17/2025">
+    <img src="https://img.shields.io/badge/View%20my%202025%20Skyline%20%E2%86%97-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0B1020" />
+  </a>
+</p>
+
+<p align="center">
   <sub>⚡ &nbsp;Open to collaborating on ambitious side-projects. Drop me a line.</sub>
-</div>
+</p>
+
+<!-- ===== Footer wave ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+</p>

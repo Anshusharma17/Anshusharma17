@@ -36,7 +36,7 @@ I'm a full-stack engineer who likes shipping things that hold up under real traf
 TypeScript backends, thoughtful APIs, and React UIs that feel fast.
 Lately I've been going deeper into **distributed systems** and the **Internet Computer (Motoko)** ecosystem.
 
-> *"Boring on the inside, delightful on the outside."* — what I aim for in every system I build.
+> _"Boring on the inside, delightful on the outside."_ — what I aim for in every system I build.
 
 ---
 
@@ -130,25 +130,11 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 
 ---
 
-### 🏆 &nbsp;Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshusharma17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
 ### 📈 &nbsp;Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshusharma17&bg_color=0B1020&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution calendar" />
-</p>
-
-<p align="center"><sub>🌈 &nbsp;…and the same year, alive — colors flow across the towers on a loop</sub></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-rainbow-animate.svg" alt="animated 3D contribution calendar" />
@@ -159,7 +145,7 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 ### 🎯 &nbsp;Beyond code
 
 - 🏅 &nbsp;HackerRank — [Java (Basic)](https://www.hackerrank.com/certificates/269061045996)
-- 📚 &nbsp;Reading: *Designing Data-Intensive Applications*
+- 📚 &nbsp;Reading: _Designing Data-Intensive Applications_
 - 🌱 &nbsp;Learning: Kubernetes, system-design patterns, smart-contract security
 
 ---

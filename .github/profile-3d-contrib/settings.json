@@ -1,16 +1,39 @@
-{
-  "type": "normal",
-  "backgroundColor": "#0B1020",
-  "foregroundColor": "#C9D1D9",
-  "strongColor": "#22D3EE",
-  "weakColor": "#7D8AA0",
-  "radarColor": "#22D3EE",
-  "growingAnimation": true,
-  "contribColors": [
-    "#1B2240",
-    "#0E5C6E",
-    "#13899B",
-    "#1BB6CC",
-    "#22D3EE"
-  ]
-}
+[
+  {
+    "type": "normal",
+    "fileName": "profile-customize.svg",
+    "backgroundColor": "#0B1020",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#22D3EE",
+    "weakColor": "#7D8AA0",
+    "radarColor": "#22D3EE",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1B2240",
+      "#0E5C6E",
+      "#13899B",
+      "#1BB6CC",
+      "#22D3EE"
+    ]
+  },
+  {
+    "type": "rainbow",
+    "fileName": "profile-rainbow-animate.svg",
+    "backgroundColor": "#0B1020",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#22D3EE",
+    "weakColor": "#7D8AA0",
+    "radarColor": "#22D3EE",
+    "growingAnimation": true,
+    "saturation": "70%",
+    "contribLightness": [
+      "20%",
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "duration": "8s",
+    "hueRatio": 7
+  }
+]

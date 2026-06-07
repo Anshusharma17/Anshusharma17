@@ -20,8 +20,20 @@ jobs:
           mkdir -p .github/profile-3d-contrib
           cat > .github/profile-3d-contrib/settings.json <<'EOF'
           {
-            "type": "night-view",
-            "backgroundColor": "#0B1020"
+            "type": "normal",
+            "backgroundColor": "#0B1020",
+            "foregroundColor": "#C9D1D9",
+            "strongColor": "#22D3EE",
+            "weakColor": "#7D8AA0",
+            "radarColor": "#22D3EE",
+            "growingAnimation": true,
+            "contribColors": [
+              "#1B2240",
+              "#0E5C6E",
+              "#13899B",
+              "#1BB6CC",
+              "#22D3EE"
+            ]
           }
           EOF
 

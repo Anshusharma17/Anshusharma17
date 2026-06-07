@@ -130,6 +130,14 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 
 ---
 
+### 🏆 &nbsp;Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshusharma17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</p>
+
+---
+
 ### 📈 &nbsp;Activity
 
 <p align="center">
@@ -138,6 +146,12 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution calendar" />
+</p>
+
+<p align="center"><sub>🌈 &nbsp;…and the same year, alive — colors flow across the towers on a loop</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-rainbow-animate.svg" alt="animated 3D contribution calendar" />
 </p>
 
 ---

@@ -137,16 +137,8 @@ Lately I've been going deeper into **distributed systems** and the **Internet Co
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Anshusharma17/Anshusharma17/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution calendar" />
 </p>
-
-<details>
-  <summary><sub>📅 &nbsp;See classic calendar heatmap</sub></summary>
-  <br />
-  <p align="center">
-    <img src="https://ghchart.rshah.org/22D3EE/Anshusharma17" alt="contribution heatmap" width="100%" />
-  </p>
-</details>
 
 ---
 
